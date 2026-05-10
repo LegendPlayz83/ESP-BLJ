@@ -11,7 +11,7 @@ This is a Bluetooth jammer using an ESP32 and two NRF24L01 modules, which can ge
 | Name | Quantity | Cost | Link |
 |------|----------|------|------|
 | ESP32 | 1 | $6.50 | [Buy](https://amzn.in/d/00Hn10EH) |
-| NRF24L01 | 1 | $6.00 | [Buy](https://amzn.in/d/0ivHZ6OX) |
+| NRF24L01 | 2 | $6.00 | [Buy](https://amzn.in/d/0ivHZ6OX) |
 | Switch | 1 | $1.70 | [Buy](https://amzn.in/d/02DhS15A) |
 | 3.7v LiPo Battery | 1 | $3.02 | [Buy](https://amzn.in/d/050THvbC) |
 | Dotted PCB | 1 | $3.18 | [Buy](https://amzn.in/d/0172Sswi) |
