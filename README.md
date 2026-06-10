@@ -8,16 +8,20 @@ This is a Bluetooth jammer using an ESP32 and two NRF24L01 modules, which can ge
 
 ### BOM
 
+# Bill of Materials
+
 | Name | Quantity | Cost | Link |
 |------|----------|------|------|
-| ESP32 | 1 | $6.50 | [Buy](https://amzn.in/d/00Hn10EH) |
-| NRF24L01 | 2 | $6.00 | [Buy](https://amzn.in/d/0ivHZ6OX) |
-| Switch | 1 | $1.70 | [Buy](https://amzn.in/d/02DhS15A) |
+| ESP32 | 1 | $10.50 | [Buy](https://amzn.in/d/0ij8IKGA) |
+| NRF24L01 | 2 | $4.00 | [Buy](https://www.flyrobo.in/2.4ghz-nrf24l01-pa-lna-sma-wireless-transceiver-antenna) |
+| Switch | 1 | $0.00 | Self Funded |
 | 3.7v LiPo Battery | 1 | $3.02 | [Buy](https://amzn.in/d/050THvbC) |
-| Dotted PCB | 1 | $3.18 | [Buy](https://amzn.in/d/0172Sswi) |
-| Female Header Berg Strip | 5 | $4 | [Buy](https://amzn.in/d/09em2rD2) |
-| 220ohm Resistor | 1 | $0.50 | [Buy](https://robocraze.com) |
-| 5mm LED | 1 | $0.50 | [Buy](https://robocraze.com) |
-| **Total** | | **$27** | |
+| TP4056 Charger Module | 1 | $1.20 | [Buy](https://www.flyrobo.in/tp4056-1a-li-ion-lithium-battery-charging-module-with-current-protection-type-c) |
+| Dotted PCB | 1 | $2.10 | [Buy](https://www.flyrobo.in/9_x_15cm_pcb_prototyping_printed_circuit) |
+| Female Header Berg Strip | 5 | $1.20 | [Buy](https://www.flyrobo.in/2mm-pitch-female-burg-strip-40-pin-5-pcs) |
+| 220ohm Resistor | 1 | $0.00 | Self Funded |
+| 5mm LED | 1 | $0.00 | Self Funded |
+| Adapter Board | 2 | $1.40 | [Buy](https://www.flyrobo.in/3.3v-adapter-board-for-nrf24l01-wireless-module) |
+| **Total** | | **$23.42** | |
 
-The total costs come out to be $27
+The total costs come out to be $23.42
