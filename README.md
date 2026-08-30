@@ -3,10 +3,14 @@
 
 <h3>Wokwi Circuit link : https://wokwi.com/projects/463557723632431105</h3>
 
-This is a Bluetooth jammer using an ESP32 and two NRF24L01 modules, which can generate a 2.4 GHz spectrum signal, which could be used to interrupt Bluetooth communications temporarily
+This is a Bluetooth jammer using an ESP32 and two NRF24L01 modules, which can generate a 2.4 GHz spectrum signal, that could be used to interrupt Bluetooth communications temporarily
 <h3>For Educational purposes only!</h3>
 
-### BOM
+# Why I made this
+To silence the speakers of my noisy neighbours /j
+
+# Replicating Tips
+Focus on wiring! Any wrong wiring could fry the antenna
 
 # Bill of Materials
 
