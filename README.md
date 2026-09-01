@@ -10,7 +10,8 @@ This is a Bluetooth jammer using an ESP32 and two NRF24L01 modules, which can ge
 To silence the speakers of my noisy neighbours /j
 
 # Replicating Tips
-Focus on wiring! Any wrong wiring could fry the antenna
+Focus on wiring! Any wrong wiring could fry the antenna. Also, wiring will be done component to component on the zero PCB.
+
 
 # Bill of Materials
 
