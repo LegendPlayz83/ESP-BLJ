@@ -9,7 +9,7 @@ created_at: "2026-05-09"
 
 **Total time spent: 1 hour**
 
-[content missing due to database mishap]
+(https://lapse.hackclub.com/timelapse/YrB5tWes4MFK)
 
 # 2026-05-15: Code v1
 
