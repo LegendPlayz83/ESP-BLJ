@@ -26,7 +26,8 @@ Focus on wiring! Any wrong wiring could fry the antenna. Also, wiring will be do
 | Female Header Berg Strip | 5 | $1.20 | [Buy](https://www.flyrobo.in/2mm-pitch-female-burg-strip-40-pin-5-pcs) |
 | 220ohm Resistor | 1 | $0.00 | [Buy](robocraze.com) |
 | 5mm LED | 1 | $0.00 | [Buy](robocraze.com) |
+| Wires | 1 | $3.00 | [Buy](https://www.flyrobo.in/140pcs-pre-formed-breadboard-jumper-wire-kit-with-box) |
 | Adapter Board | 2 | $1.40 | [Buy](https://www.flyrobo.in/3.3v-adapter-board-for-nrf24l01-wireless-module) |
-| **Total** | | **$23.42** | |
+| **Total** | | **$26.42** | |
 
-The total costs come out to be $23.42
+The total costs come out to be $26.42
